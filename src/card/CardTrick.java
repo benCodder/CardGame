@@ -34,13 +34,13 @@ public class CardTrick {
         }
         
         //insert code to ask the user for Card value and suit, create their card
-        Scanner key = new Scanner(System.in);
+        /*Scanner key = new Scanner(System.in);
         
         System.out.println("Enter a card value(1-13): ");
         int userValue=key.nextInt();
         
         System.out.println("Enter a suit(0=Hearts, 1=Diamonds, 2=Spades, 3=Clubs): ");
-        int userSuit=key.nextInt();
+        int userSuit=key.nextInt();/*
         
         /*Card userCard= new Card();
         userCard.setValue(userValue);
