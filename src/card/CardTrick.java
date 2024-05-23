@@ -48,7 +48,7 @@ public class CardTrick {
         */
 
         // add one luckcard hard code 2,clubs
-        Card lukyCard = new Card();
+        Card luckyCard = new Card();
         luckyCard.setValue(2);
         luckyCard.setSuit(Card.SUITS[3]);
         
